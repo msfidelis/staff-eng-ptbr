@@ -1,6 +1,6 @@
 ---
 title: Overview / Arquetipos de Staff
-author: Tao He
+author: Will Larson 
 date: 2023-12-01
 category: Overview
 layout: post

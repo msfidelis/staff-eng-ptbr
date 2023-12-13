@@ -1,6 +1,6 @@
 ---
 title: Operando como Staff / Trabalhe com o que importa
-author: Tao He
+author: Will Larson 
 date: 2023-12-04
 category: OperatingAtStaff
 layout: post

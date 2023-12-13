@@ -1,6 +1,6 @@
 ---
 title: Operando como Staff / Escrevendo uma Estratégia de Engenharia
-author: Tao He
+author: Will Larson 
 date: 2023-12-07
 category: OperatingAtStaff
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Operando como Staff / Gerencie a Qualidade Tecnica
-author: Tao He
+author: Will Larson 
 date: 2023-12-08
 category: OperatingAtStaff
 layout: post

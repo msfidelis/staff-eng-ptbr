@@ -1,16 +1,16 @@
 # Configurations
-title:            Staff Engineering Path
-longtitle:        Staff Engineering Path
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Staff Engineering - PT-BR
+longtitle:        Staff Engineering - PT-BR
+author:           Will Larson
+# email:            Matheus Scarpato Fidelis
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'http://0.0.0.0/'
-baseurl:          ''
+url:              'https://fidelissauro.dev'
+baseurl:          '/staff-engineering-pt-br'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

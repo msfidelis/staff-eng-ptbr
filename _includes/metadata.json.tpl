@@ -37,7 +37,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Will Larson ",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
