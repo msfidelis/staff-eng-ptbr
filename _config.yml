@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://fidelissauro.dev'
-baseurl:          '/staff-engineering-pt-br'
+url:              'https://msfidelis.github.io'
+baseurl:          '/staff-eng-ptbr'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
