@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Gerencie a Qualidade Tecnica
 author: Will Larson 
-date: 2023-12-08
+date: 2023-10-08
 category: OperatingAtStaff
 layout: post
 mermaid: true

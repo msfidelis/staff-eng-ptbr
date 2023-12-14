@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Construa uma rede de pares
 author: Will Larson 
-date: 2023-12-12
+date: 2023-10-13
 category: OperatingAtStaff
 layout: post
 mermaid: true

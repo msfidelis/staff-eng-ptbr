@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Permanecendo Alinhado com a Autoridade
 author: Will Larson 
-date: 2023-12-09
+date: 2023-10-09
 category: OperatingAtStaff
 layout: post
 mermaid: true

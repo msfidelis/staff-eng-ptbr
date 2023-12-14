@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Para Liderar, você tem que seguir
 author: Will Larson 
-date: 2023-12-10
+date: 2023-10-10
 category: OperatingAtStaff
 layout: post
 mermaid: true

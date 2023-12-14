@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Crie espaço para os outros
 author: Will Larson 
-date: 2023-12-12
+date: 2023-10-12
 category: OperatingAtStaff
 layout: post
 mermaid: true

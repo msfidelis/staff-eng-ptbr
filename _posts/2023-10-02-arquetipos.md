@@ -1,7 +1,7 @@
 ---
 title: Overview / Arquetipos de Staff
 author: Will Larson 
-date: 2023-12-01
+date: 2023-10-02
 category: Overview
 layout: post
 mermaid: true

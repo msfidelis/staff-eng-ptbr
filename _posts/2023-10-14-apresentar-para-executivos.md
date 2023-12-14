@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Apresentar para Executivos
 author: Will Larson 
-date: 2023-12-12
+date: 2023-10-14
 category: OperatingAtStaff
 layout: post
 mermaid: true

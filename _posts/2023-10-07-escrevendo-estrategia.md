@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Escrevendo uma Estratégia de Engenharia
 author: Will Larson 
-date: 2023-12-07
+date: 2023-10-07
 category: OperatingAtStaff
 layout: post
 mermaid: true

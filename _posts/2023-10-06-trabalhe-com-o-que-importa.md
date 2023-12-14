@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff / Trabalhe com o que importa
 author: Will Larson 
-date: 2023-12-04
+date: 2023-10-06
 category: OperatingAtStaff
 layout: post
 mermaid: true

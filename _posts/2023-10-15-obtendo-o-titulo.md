@@ -1,7 +1,7 @@
 ---
 title: Obtendo o Título
 author: Will Larson 
-date: 2023-12-12
+date: 2023-10-15
 category: OperatingAtStaff
 layout: post
 mermaid: true

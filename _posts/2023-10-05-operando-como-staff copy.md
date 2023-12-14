@@ -1,7 +1,7 @@
 ---
 title: Operando como Staff
 author: Will Larson 
-date: 2023-12-04
+date: 2023-10-05
 category: OperatingAtStaff
 layout: post
 mermaid: true
