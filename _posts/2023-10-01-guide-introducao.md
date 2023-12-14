@@ -13,10 +13,10 @@ E se você quiser avançar na sua carreira sem se tornar um gestor de engenharia
 
 <br>
 
-![levels](/assets/introduction/levels.png)
+![levels]({{ site.baseurl }}/assets/introduction/levels.png)
 
 <br>
-￼
+
 Este livro padroniza na sequência mais comum de títulos: indo de Sênior para Staff, seguido por Principal e depois Distinto. Ele usa o termo Staff-plus como uma etiqueta abrangente para os títulos de Staff, Principal e Distinto. Muitas empresas têm apenas um subconjunto desses títulos, adicionando mais à medida que sua equipe cresce, mas empresas que têm apenas um título de liderança técnica quase sempre usam Staff. Algumas empresas usam uma sequência alternativa, mas são minoria.
 
 --------------

@@ -24,7 +24,7 @@ Esta taxonomia é mais focada em ser **útil** do que **completa**, mas até ago
 
 ## Líder Técnico
 
-![Calendário exemplo para o arquétipo de Líder Técnico](/assets/archetypes//TechLeadCalendar.png)
+![Calendário exemplo para o arquétipo de Líder Técnico]({{ site.baseurl }}/assets/archetypes//TechLeadCalendar.png)
 
 _Histórias apresentando o arquétipo de Líder Técnico_: [Diana Pojar](https://staffeng.com/stories/diana-pojar), [Dan Na](https://staffeng.com/stories/dan-na), [Ritu Vincent](https://staffeng.com/stories/ritu-vincent)
 
@@ -40,7 +40,7 @@ De forma um tanto confusa, algumas empresas usam _Líder Técnico_ como um títu
 
 ## Arquiteto
 
-![Calendário exemplo para o arquétipo de Arquiteto](/assets/archetypes//ArchitectCalendar.png)
+![Calendário exemplo para o arquétipo de Arquiteto]({{ site.baseurl }}/assets/archetypes//ArchitectCalendar.png)
 
 _Histórias apresentando o arquétipo de Arquiteto_: [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller), [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn)
 
@@ -52,7 +52,7 @@ O papel de _Arquiteto_ tende a evoluir em empresas relativamente grandes, empres
 
 ## Solucionador
 
-![Calendário exemplo para o arquétipo de Solucionador](/assets/archetypes//SolverCalendar.png)
+![Calendário exemplo para o arquétipo de Solucionador]({{ site.baseurl }}/assets/archetypes//SolverCalendar.png)
 
 _Histórias apresentando o arquétipo de Solucionador_: [Bert Fan](https://staffeng.com/stories/bert-fan), [Nelson Elhage](https://staffeng.com/stories/nelson-elhage)
 
@@ -64,7 +64,7 @@ O _Solucionador_ é mais comum em empresas que consideram os _indivíduos, em ve
 
 ## Mão Direita
 
-![Calendário exemplo para o arquétipo de Mão Direita](/assets/archetypes//RightHandCalendar.png)
+![Calendário exemplo para o arquétipo de Mão Direita]({{ site.baseurl }}/assets/archetypes//RightHandCalendar.png)
 
 _Histórias apresentando o arquétipo de Mão Direita_: [Michelle Bu](https://staffeng.com/stories/michelle-bu), [Rick Boone](https://staffeng.com/stories/rick-boone)
 
